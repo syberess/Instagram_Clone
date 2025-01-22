@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287963867212",
+    "project_id": "instaklon-4b314",
+    "storage_bucket": "instaklon-4b314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287963867212:android:96d13110731f8f188e6ce9",
+        "android_client_info": {
+          "package_name": "com.esmapolat.kotlininstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASm188x0G2qGAU8RYE5sGZndUxwBTbWwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
